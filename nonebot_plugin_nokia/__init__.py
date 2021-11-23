@@ -4,7 +4,7 @@ from nonebot.typing import T_State
 
 from .nokia import generate_image
 
-nka = on_command("nokia", aliases={"nka", "诺基亚"}, priority=10)
+nka = on_command("nokia",aliases={"nka","诺基亚"}, priority=10)
 
 
 @nka.handle()
