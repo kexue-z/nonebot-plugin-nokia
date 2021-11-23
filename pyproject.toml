@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "nonebot-plugin-nokia"
 version = "0.0.3"
-description = ""
+description = "README.md"
 authors = ["kexue <xana278@foxmail.com>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.7.3,<4.0.0"
